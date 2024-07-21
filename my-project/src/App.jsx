@@ -1,5 +1,5 @@
 import React from "react"
-import Header from "./Header"
+import Homepage from "./Homepage"
 
 
 
@@ -7,7 +7,7 @@ import Header from "./Header"
 function App() {
   return (
     <>
-     <Header />
+     <Homepage />
     </>
   )
 }
